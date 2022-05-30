@@ -1,6 +1,6 @@
-# Car Dealer
+# Car House
 
-Car Dealer is the most enticing, creative, modern and versatile auto dealer premium REACT template suitable for any car dealer website, business or corporate websites.
+Car House is the most enticing, creative, modern and versatile auto dealer premium REACT template suitable for any car dealer website, business or corporate websites.
 
 ## Live link (Firebase) - https://car-house-8d66f.web.app/
 ## Client Side Code Link - https://github.com/ProgrammingHeroWC4/warehouse-management-server-side-sojib-Ahmed
